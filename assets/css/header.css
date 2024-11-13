@@ -63,7 +63,7 @@
 }
 
 .information .email::before {
-  background-image: url('../img/icons/email.svg');
+  background-image: url('../img/icons/mail.svg');
 }
 
 .information .phone::before {
